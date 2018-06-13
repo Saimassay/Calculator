@@ -1,0 +1,25 @@
+.root{
+-fx-background-color: #181818;
+-fx-font-size:5pt;
+}
+.button{
+-fx-background-color: red;
+-fx-font-size: 18pt;
+-fx-padding: 10 10 10 10;
+}
+.button:hover {
+    -fx-background-color: #FF3333;
+}
+.text-field {
+    -fx-font-size: 12pt;
+    -fx-font-family: Arial";
+}
+.menu-bar {
+    -fx-background-color: #181818);
+}
+
+
+
+
+
+ 
