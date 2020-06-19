@@ -1,2 +1,2 @@
-# new-project
-new project
+# Calculator
+Calculator on JavaFx with basic operations
